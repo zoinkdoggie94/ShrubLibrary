@@ -1,8 +1,8 @@
 # 🌱 ShrubLibrary
 
-A lil library for finding iOS sideloading repos and apps, all in one place.
+The best library for finding iOS sideloading repos and apps, all in one place.
 
-**34 built-in repos • 20k+ apps • Import ur own repos**
+**34 built-in repos • 20k+ apps • Import your own repos**
 
 ## 🔗 [Visit ShrubLibrary](https://shrublibrary.pages.dev/)
 
@@ -13,7 +13,7 @@ Search for the apps you want, browse repos and download their apps straight from
 * **Search every app** in the library
 * **Browse individual repos** and download their apps
 * **View app details** like versions, descriptions, screenshots and more
-* **Import ur own repos** if you can’t find the one you want
+* **Import your own repos** if you can’t find the one you want
 * **Share any repo with a link**, even custom ones that u imported yourself
 
 Even though I made it, I still use it to get most of my apps that I sideload. It’s just rlly useful :)

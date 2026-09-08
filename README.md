@@ -42,6 +42,10 @@ App information and download links come from third-party repositories. A listing
 
 I made ShrubLibrary so finding sideloading repos and apps wouldn't mean searching a bunch of separate sources every time. Even though I made it, I still use it to find most of the apps I sideload. It's just rlly useful :)
 
+## 🌿 Suggest a repo
+
+Know a good iOS sideloading or AltStore repo that ShrubLibrary doesn't have yet? **[Suggest it in the ShrubLibrary discussion](https://github.com/zoinkdoggie94/ShrubLibrary/discussions)**.
+
 ## 🐛 Found a bug?
 
 If something looks broken, a download link stops working or a repo won't load, let me know! Include the app or repo name and what happened so it's easier to check.

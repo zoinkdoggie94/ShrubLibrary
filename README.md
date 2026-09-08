@@ -1,29 +1,55 @@
-# 🌱 ShrubLibrary
+# 🌱 ShrubLibrary — iOS Sideloading & IPA Library
 
-The best library for finding iOS sideloading repos and apps, all in one place.
+**Find iOS apps, IPA downloads and sideloading repos in one searchable library.**
 
-**34 built-in repos • 20k+ apps • Import your own repos**
+[ShrubLibrary](https://shrublibrary.pages.dev/) is a browser-based library for discovering **iOS sideloading repositories, AltStore repos and IPA app downloads** for iPhone and iPad. Search across repositories, browse their apps and find download links without manually importing every source into a sideloading app first.
+
+**34 built-in repos • 20k+ app listings • Import your own repos**
 
 ## 🔗 [Visit ShrubLibrary](https://shrublibrary.pages.dev/)
 
-Search for the apps you want, browse repos and download their apps straight from the site. No need to manually import every repo just to see what’s in it.
+The official ShrubLibrary website is **[shrublibrary.pages.dev](https://shrublibrary.pages.dev/)**.
 
-## What can you do?
+## 🔎 What can you do?
 
-* **Search every app** in the library
-* **Browse individual repos** and download their apps
-* **View app details** like versions, descriptions, screenshots and more
-* **Import your own repos** if you can’t find the one you want
-* **Share any repo with a link**, even custom ones that u imported yourself
+- **Search across the library** to find apps from multiple iOS repositories in one place.
+- **Browse individual repos** and search the apps within a specific source.
+- **Find IPA downloads** through the links supplied by each repository.
+- **View app details** like versions, descriptions, screenshots and other information provided by the source.
+- **Import your own repos** if a source you use isn't already included.
+- **Share any repo with a link**, including custom repos you've imported yourself.
+- And **more!**
 
-Even though I made it, I still use it to get most of my apps that I sideload. It’s just rlly useful :)
+Repository contents and app availability can change over time.
 
-## Found a bug?
+## 📱 How to use ShrubLibrary
 
-The site’s new and prolly has some glitches, so let me know if anything looks broken! You can find the **ShrubHub Discord** through the join button at the bottom of the site.
+1. Open **[ShrubLibrary](https://shrublibrary.pages.dev/)**.
+2. Search for an app or choose a repository to browse.
+3. Open an app's details to check its version, description and source.
+4. Follow its listed download link to get the IPA.
+5. Install the IPA using a sideloading method compatible with your device and the app.
 
-## About this repo
+Already have a repo you like? Import it to browse its apps and get a shareable link.
 
-This repo is just a place to find the link to ShrubLibrary. The website’s source code isn’t hosted here.
+## Downloads and installation
+
+Downloading an IPA and installing it are separate steps. After downloading, use a sideloading method compatible with your device and the app.
+
+App information and download links come from third-party repositories. A listing in ShrubLibrary is not a guarantee that an IPA is safe or compatible with your device. Check the app's source and requirements before installing.
+
+## Why I made it
+
+I made ShrubLibrary so finding sideloading repos and apps wouldn't mean searching a bunch of separate sources every time. Even though I made it, I still use it to find most of the apps I sideload. It's just rlly useful :)
+
+## 🐛 Found a bug?
+
+If something looks broken, a download link stops working or a repo won't load, let me know! Include the app or repo name and what happened so it's easier to check.
+
+You can find the **ShrubHub Discord** through the join button at the bottom of the website.
+
+## About this GitHub repo
+
+This repository contains information about ShrubLibrary and a link to its official website. **The website's source code isn't hosted here.**
 
 Thanks for checking it out! Enjoy it :)

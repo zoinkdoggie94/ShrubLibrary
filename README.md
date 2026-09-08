@@ -44,7 +44,7 @@ I made ShrubLibrary so finding sideloading repos and apps wouldn't mean searchin
 
 ## 🌿 Suggest a repo
 
-Know a good iOS sideloading or AltStore repo that ShrubLibrary doesn't have yet? **[Suggest it in the ShrubLibrary discussion](https://github.com/zoinkdoggie94/ShrubLibrary/discussions).**.
+Know a good iOS sideloading or AltStore repo that ShrubLibrary doesn't have yet? **[Suggest it in the ShrubLibrary discussion](https://github.com/zoinkdoggie94/ShrubLibrary/discussions/1#discussion-10777327).**
 
 ## 🐛 Found a bug?
 

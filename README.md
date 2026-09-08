@@ -4,7 +4,7 @@
 
 [ShrubLibrary](https://shrublibrary.pages.dev/) is a browser-based library for discovering **iOS sideloading repositories, AltStore repos and IPA app downloads** for iPhone and iPad. Search across repositories, browse their apps and find download links without manually importing every source into a sideloading app first.
 
-**34 built-in repos • 20k+ app listings • Import your own repos**
+**36 built-in repos • 30k+ app listings • Import your own repos**
 
 ## 🔗 [Visit ShrubLibrary](https://shrublibrary.pages.dev/)
 
